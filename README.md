@@ -31,7 +31,7 @@ For a quick start, clone the repo and download the pretrained model.
 git clone https://github.com/jiaowohxg/CSBCNet/
 
 ```bash
-cd ./core 
+cd ./code 
 python main.py
 ```
 
