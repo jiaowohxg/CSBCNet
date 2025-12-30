@@ -1,4 +1,4 @@
-# PRNet implementation
+# CSBCNet implementation
 
 
 If you find this project useful, please cite:
